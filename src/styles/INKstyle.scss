@@ -7,13 +7,18 @@ body {
 }
 
 p {
-  font-family: 'ClearSans_Light', Helvetica, sans-serif;
+  font-family: 'Arsenal', Helvetica, sans-serif;
+}
+
+b, strong {
+  font-family: 'Arsenal', Helvetica, sans-serif;
+  font-weight: 700;
 }
 
 h1 {
   font-family: 'Monoid-Regular', Arial, Helvetica, sans-serif !important;
-  font-size:38px;
-  line-height: 50px;
+  font-size:40px;
+  line-height: 45px;
 }
 
 h2 {
