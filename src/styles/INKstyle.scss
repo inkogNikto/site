@@ -1,7 +1,7 @@
 body {
   margin: 0;
   padding: 0;
-  font-family: 'ClearSans', Helvetica, sans-serif;
+  font-family: 'Arsenal', Helvetica, sans-serif;
 }
 
 p {
@@ -14,12 +14,18 @@ b, strong {
 }
 
 h1 {
-  font-family: 'Monoid-Regular', Arial, Helvetica, sans-serif !important;
+  font-family: 'ClinicaPro', Arial, Helvetica, sans-serif !important;
   font-size:40px;
   line-height: 45px;
 }
 
 h2 {
-  font-family: 'Monoid-Regular', Arial, Helvetica, sans-serif !important;
+  font-family: 'ClinicaPro', Arial, Helvetica, sans-serif !important;
   font-size:28px;
+}
+
+#footer {
+width:100%;
+text-align:center;
+height: 30px;
 }

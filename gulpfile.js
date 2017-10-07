@@ -30,9 +30,9 @@ function styles() {
 }
 
 function scripts() {
-  return gulp.src(paths.scripts.src)
+  return gulp.src(paths.scripts.src)    
     .pipe(uglify())
-    .pipe(concat('INKstyles.min.js'))
+    .pipe(concat('INKscripts.min.js'))
     .pipe(gulp.dest(paths.scripts.dest))
 }
 
